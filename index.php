@@ -2,7 +2,7 @@
  <?php 
 include('header.php');
 ?>
-<h1> Form </h1>
+<h1> HW 2 </h1>
 
 <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
