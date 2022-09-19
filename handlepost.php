@@ -1,5 +1,5 @@
 <!doctype html>
-<?php >
+<?php?>
 <body>
 
 <form action="welcome_get.php" method="get">
