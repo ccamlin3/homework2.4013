@@ -1,7 +1,7 @@
 <doctype html>
   <html>
     <head>
-      Cam's Heading <?php require_once ('header.php');?>
+      Cam's Heading <?php include ('header.php');?>
     </head>
     <body>
       <form action"handlepost.php" method="post">
