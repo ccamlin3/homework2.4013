@@ -1,9 +1,6 @@
-<doctype html>
-  <html>
-    <head>
-      Cam's Heading <?php include ('header.php');?>
-    </head>
-    <body>
+
+     <?php include ('header.php');?>
+    
       <form action"handlepost.php" method="post">
         Name <input type="text" name ="name"><br>
         E-mail: <input type="text" name="email"><br>
