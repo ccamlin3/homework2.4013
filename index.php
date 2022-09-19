@@ -2,7 +2,7 @@
  <?php 
 include('header.php');
 ?>
-<h1> test </h1>
+<h1> Form </h1>
     
       <form action"handlepost.php" method="post">
         Name <input type="text" name ="name"><br>
