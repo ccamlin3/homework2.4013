@@ -1,7 +1,7 @@
 <!doctype html>
 <?php?>
 <head>
-  <h1> <a class="btn btn-primary" href="#" role="button">Link</a> </h1>
+  <h1> <a class="btn btn-primary" href="#" role="button">PHP Get</a> </h1>
 </head>
 <body>
   
